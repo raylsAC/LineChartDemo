@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="TextColorBlack">#FF000000</color>
+    <color name="TextColorBlackLittle">#FF404040</color>
+    <color name="TextColorWhite">#FFFFFFFF</color>
+    <color name="TextColorGray">#FF505050</color>
+    <color name="ToastBgColor">#FF424242</color>
+    <color name="btnColor">#FFFFFF</color>
+    <color name="textColorforItemTitle">#FF666666</color>
+    <color name="secondbtntextColor">#FF496ea3</color>
+    <color name="textColorforCheckBox">#FF333333</color>
+    <color name="bgColor">#FFF2F2F2</color>
+    <color name="downLoadTextNomal">#FF3366CC</color>
+    <color name="downLoadTextPressed">#FFFFFFFF</color>
+    <color name="downLoadBackNomal">#FFFFFFFF</color>
+    <color name="downLoadBackFocus">#FF6698E7</color>
+    <color name="downLoadBackPressed">#FF3366CC</color>
+    <color name="dialog_tiltle_blue">#2277BB</color>
+    
+    <!-- ZXing -->
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="viewfinder_laser">#ffcc0000</color> <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#B0000000</color>
+    <color name="action_mask">#D0000000</color>
+    
+    <!-- Common Color -->
+    <color name="picker">#FFFFB5C5</color>
+	<color name="common_pull_to_refresh">#CC646569</color>
+	
+    <color name="black_register">#FF545454</color>
+    <color name="gray_text_register">#FF999999</color>
+    <color name="gray_text_hint_register">#FFD2D2D2</color>
+    
+    <!-- main tab -->
+    <color name="main_tab_text_normal">#FF505050</color>
+    <color name="main_tab_text_hover">#FF4BC8A0</color>
+    <color name="transparent">#00000000</color>
+    
+    <!-- square -->
+    <color name="square_item_uname">#FF222222</color>
+    <color name="square_item_desc">#FFACACAC</color>
+    
+    <!-- index -->
+    <color name="menu_bg_color_grey">#FFEBEBEB</color>
+    <color name="dyn_item_date_text_color">#FFF08214</color>
+    <color name="dyn_item_action_split_color">#FFDCDCDC</color>
+    <color name="dyn_item_action_text_color">#FF969696</color>
+    
+    <!-- shopmall -->
+    <color name="shopmall_product_price">#FFFB6F53</color>
+    <color name="shopmall_product_limit_tip">#FFFF684C</color>
+    <color name="shopmall_shopping_car_delete_red_dark">#FFCC0000</color>
+    
+    <!-- convenient -->
+    <color name="convenient_list_item_desc_green">#FF37AA87</color>
+    <color name="convenient_list_item_desc_brown">#FFDC6E00</color>
+    
+    <!-- orderdetail -->
+    <color name="orderstate_add_order_num">#f04b4b</color>
+    <color name="orderstate_all_price_color">#f04b4b</color>
+    <color name="orderstate_transport">#ff7d09</color>
+    <color name="product_name_tv_color">#4c4c4c</color>
+    <color name="order_all_price_tag_tv_color">#333333</color>
+    <color name="order_num_tv_color">#4c4c4c</color>
+    <color name="customer_detail_tv_color">#999999</color>
+    <color name="order_count_tv_color">#666666</color>
+    <color name="order_gap_line_bg_color">#f0f0f0</color>
+    <color name="order_item_gap_line_bg_color">#e5e5e5</color>
+    
+    <!-- login -->
+    <color name="login_gap_line_color">#d6d6d6</color>
+    <color name="login_edittext_color">#333333</color>
+    <color name="login_tv_color">#ffffff</color>
+    <color name="login_instruction_color">#f04b4b</color>
+    
+    <!-- normal -->
+    <color name="normal_red_color">#f04b4b</color>
+    <color name="normal_green_color">#0daa11</color>
+    <color name="normal_gray_color">#e6e6e6</color>
+    <color name="normal_white_color">#ffffff</color>
+    
+    <!-- transport_detail -->
+    <color name="transport_detail_express_name_color">#000000</color>
+    <color name="transport_detail_sign_success_tv_color">#0daa11</color>
+    <color name="transport_detail_normal_tv_color">#666666</color>
+    <color name="transport_detail_line_color">#c3c3c3</color>
+</resources>

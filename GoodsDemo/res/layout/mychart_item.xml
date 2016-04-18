@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+  <!--   <TextView 
+        android:id="@+id/tv_item"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="6dp"
+        android:text="600"
+        android:textSize="12sp"
+        android:layout_marginBottom="-50dp"
+        android:textColor="@color/normal_red_color"/> -->
+        
+        <com.example.goodsdemo.view.MyItemView 
+            android:id="@+id/item_view"
+            android:layout_height="wrap_content"
+            android:layout_width="80dp"
+            />
+    
+
+</LinearLayout>
